@@ -42,7 +42,7 @@ foreach i of local area {
 			save `cats', replace
 		}   // end of each category within each area
 	} // end of each category
-} end of each area
+} //end of each area
 
 
 
